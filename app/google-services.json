@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "959063690004",
+    "firebase_url": "https://dangkythanhvien-59322.firebaseio.com",
+    "project_id": "dangkythanhvien-59322",
+    "storage_bucket": "dangkythanhvien-59322.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959063690004:android:d4388145cfd1a4009e1001",
+        "android_client_info": {
+          "package_name": "com.linearlayout.sellingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959063690004-skg5549j9m2cp8dcn4lu310e1l85n5gj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBocZ_VUhtQZU127xQ1np4o4w8tpKuhmUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959063690004-skg5549j9m2cp8dcn4lu310e1l85n5gj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
